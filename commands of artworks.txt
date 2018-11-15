@@ -1,0 +1,123 @@
+These are the inputs and outputs of commands of artwork project continuing from the previous commands in the other file that shows the commands of art museum project
+
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ ls                                                                            
+art-museum-website  artworks  desktop.ini                                       
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ cd artworks                                                                   
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks                          
+$ mkdir paintings                                                               
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks                          
+$ mkdir artist-info                                                             
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks                          
+$ cd artist-info                                                                
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ touch leonardo-da-vinci.txt                                                   
+                                                                                                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ touch claude-monet.txt                                                        
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ touch pablo-picasso.txt                                                       
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ touch vincent-van-gogh.txt                                                    
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ ls                                                                            
+claude-monet.txt       pablo-picasso.txt                                        
+leonardo-da-vinci.txt  vincent-van-gogh.txt                                     
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks/artist-info              
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks                          
+$ ls                                                                            
+artist-info  paintings                                                          
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/artworks                          
+$ cd c:/users/Raymond/downloads                                                 
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads                                 
+$ ls                                                                            
+desktop.ini  paintings  paintings.zip                                           
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads                                 
+$ cd paintings                                                                  
+                                                                                   Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings                       
+$ ls                                                                            
+paintings                                                                       
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings                       
+$ cd paintings                                                                  
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ ls                                                                            
+guernica.jpg  mona-lisa.jpg  the-starry-night.jpg  water-lilies.jpg             
+                                                                                                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ mv guernica.jpg ~ c:/users/Raymond/desktop/artworks/paintings                 
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ mv mona-lisa.jpg ~ c:/users/Raymond/desktop/artworks/paintings                
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ mv the-starry-night.jpg ~ c:/users/Raymond/desktop/artworks/paintings         
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ mv water-lilies.jpg ~ c:/users/Raymond/desktop/artworks/paintings             
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ ls                                                                            
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/downloads/paintings/paintings             
+$ cd c:/users/Raymond/desktop                                                   
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop                                   
+$ ls                                                                            
+art-museum-website  artworks  desktop.ini                                       
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop                                   
+$ cd artworks                                                                   
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks                          
+$ ls                                                                            
+artist-info  paintings                                                          
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks                          
+$ cd paintings                                                                  
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks/paintings                
+$ ls                                                                            
+guernica.jpg  mona-lisa.jpg  Raymond  the-starry-night.jpg  water-lilies.jpg    
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks/paintings                
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks                          
+$ ls                                                                            
+artist-info  paintings                                                          
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks                          
+$ cd artist-info                                                                
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks/artist-info              
+$ ls                                                                            
+claude-monet.txt       pablo-picasso.txt                                        
+leonardo-da-vinci.txt  vincent-van-gogh.txt                                     
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks/artist-info              
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop/artworks                          
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/Raymond/desktop                                   
+$ ls                                                                            
+art-museum-website  artworks  desktop.ini                                                                       
+$
