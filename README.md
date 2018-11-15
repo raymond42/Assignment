@@ -1,2 +1,1 @@
-# Assignment
-Git assignment
+My project is about explaining how I did the Art museum project and Artworks by showing the Git commands I used and the outputs 
