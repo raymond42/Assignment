@@ -1,4 +1,4 @@
-These are the inputs and the outputs of art museum project
+These are the inputs and the outputs commands of making the art museum project
 
 Raymond@RAY /cygdrive/c                                                         
 $ cd c:/users/raymond/desktop                             
