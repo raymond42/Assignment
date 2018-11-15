@@ -1,4 +1,4 @@
-These are the inputs and outputs of commands of artwork project continuing from the previous commands in the other file that shows the commands of art museum project
+These are the inputs and outputs of commands of artworks project continuing from the previous commands in the other file that shows the commands of art museum project
 
 Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
 $ ls                                                                            
