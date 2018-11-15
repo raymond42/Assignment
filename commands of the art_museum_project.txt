@@ -1,0 +1,78 @@
+These are the inputs and the outputs of art museum project
+
+Raymond@RAY /cygdrive/c                                                         
+$ cd c:/users/raymond/desktop                             
+
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ pwd                                                                           
+/cygdrive/c/users/raymond/desktop                                               
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ mkdir art-museum-website                                                      
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ mkdir artworks                                                                
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ ls                                                                            
+art-museum-website  artworks  desktop.ini                                       
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ cd art-museum-website                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ mkdir css                                                                     
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ cd css                                                                        
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website/css            
+$ touch main.css                                                                
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website/css            
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ mkdir img                                                                     
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ mkdir js                                                                      
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ cd js                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website/js             
+$ touch main.js                                                                 
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website/js             
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ touch 404.html                                                                
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ touch index.html                                                              
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ touch about.html                                                              
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ touch contact.html                                                            
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ touch robots.txt                                                             
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ pwd                                                                           
+/cygdrive/c/users/raymond/desktop/art-museum-website                            
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ ls                                                                            
+404.html  about.html  contact.html  css  img  index.html  js  robots.txt 
+
+Raymond@RAY /cygdrive/c/users/raymond/desktop/art-museum-website                
+$ cd ..                                                                         
+                                                                                
+Raymond@RAY /cygdrive/c/users/raymond/desktop                                   
+$ ls                                                                            
+art-museum-website  artworks  desktop.ini
